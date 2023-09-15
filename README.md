@@ -19,7 +19,7 @@
 - Un apasionado desarrollador web front-end
 - Normamente expandiendo mi conocimiento mediante autoaprendizaje🚀
 - Portafolio [Clickeame!](https://portfolio-despliegue.vercel.app/)
-- Siempre estoy dispuesto a tener una nueva experiencia laboral, este es mi [CV](https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1PP5NQNKUhacLLdCuoqRA3uxSR0JZlXqL/view?usp=sharing)
+- Siempre estoy dispuesto a tener una nueva experiencia laboral, este es mi [CV](https://drive.google.com/file/d/1PP5NQNKUhacLLdCuoqRA3uxSR0JZlXqL/view?usp=sharing)
 
 <br><br>
 
