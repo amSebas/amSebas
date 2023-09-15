@@ -1,7 +1,10 @@
 <h1 align="center"><b>Hola , soy sebas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+	  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-			 
+                 End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  </a>
 </p>
 
 
@@ -16,11 +19,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Un apasionado desarrollador web front-end
+- Normamente expandiendo mi conocimiento mediante autoaprendizaje🚀
+- Portafolio [link](https://portfolio-despliegue.vercel.app/)
+- Siempre estoy dispuesto a tener una nueva experiencia laboral, este es mi [CV]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1PP5NQNKUhacLLdCuoqRA3uxSR0JZlXqL/view?usp=sharing))
 
 <br><br>
 
