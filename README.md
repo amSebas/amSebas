@@ -110,15 +110,15 @@
 <br>
 
 <li>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/torre:  mendezsebas-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=torre&logoColor=white" alt=torre style="margin-bottom: 5px;"/>
+<a href="https://torre.ai/mendezsebas?r=bDammMXp" target="_blank">
+<img src="https://img.shields.io/badge/torre: mendezsebas-%2300acee.svg?color=3EEB01&style=for-the-badge&logo=torre&logoColor=white" alt=torre style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<a href="Email:sebaslgr@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
