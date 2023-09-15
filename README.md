@@ -1,7 +1,8 @@
 <h1 align="center"><b>Hola , soy sebas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/amSebas"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=690&lines=%C2%A1Bienvenido+al+GitHub+de+amSebas!;Excelente+Trabajador;Amante+del+aprendizaje%3C3" alt="Welcome!" width="300"/></a>
+  <a href="https://github.com/amSebas">
+	  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=4CEDF7&center=true&vCenter=true&width=690&lines=%C2%A1Bienvenido+al+GitHub+de+amSebas!;Dedicado+y+excelente+Trabajador;Amante+del+aprendizaje+activo%3C3" alt="Welcome!" width="300"/></a>
 </p>
 
 
