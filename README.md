@@ -2,7 +2,8 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/amSebas">
-	  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=4CEDF7&center=true&vCenter=true&width=690&lines=%C2%A1Bienvenido+al+GitHub+de+amSebas!;Dedicado+y+excelente+Trabajador;Amante+del+aprendizaje+activo%3C3" alt="Welcome!" width="300"/></a>
+	  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=4CEDF7&center=true&vCenter=true&width=690&lines=%C2%A1Bienvenido+al+GitHub+de+amSebas!;Dedicado+y+excelente+Trabajador;Amante+del+aprendizaje+activo%3C3" alt="Welcome!" width="300"/>
+  </a>
 </p>
 
 
