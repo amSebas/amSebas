@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , soy sebas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/amSebas"><img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!](https://ntmaker.gfto.ru/animtilestexten//data/fire/be4f8cb048e638c4be117f530f1ce2be/fire.gif" width="300"/></a>
+  <a href="https://github.com/amSebas"><img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/be4f8cb048e638c4be117f530f1ce2be/fire.gif" alt="Welcome!" width="300"/></a>
 </p>
 
 
