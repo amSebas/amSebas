@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , soy sebas </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/amSebas"><img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/be4f8cb048e638c4be117f530f1ce2be/fire.gif](https://media.giphy.com/media/q0s0NVKnLk5WGvsLh3/giphy.gif" alt="Welcome!" width="300"/></a>
+  <a href="https://github.com/amSebas"><img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%C2%A1Bienvenido+al+GitHub+de+amSebas!;Excelente+Trabajador;Amante+del+aprendizaje%3C3)](https://git.io/typing-svg)" alt="Welcome!" width="300"/></a>
 </p>
 
 
@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
+## <picture><img src = "" width = 50px></picture> **Acerca de mí**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
