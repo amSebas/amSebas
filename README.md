@@ -81,7 +81,7 @@
 
 <a href="https://github.com/amSebas">
   <img src="https://github-readme-stats.vercel.app/api?username=amSebas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amSebas&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amSebas&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="amsebas"/>
 
 </a>
 </div>
@@ -120,6 +120,13 @@
 <li>
 <a href="Email:sebaslgr@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  sebaslgr@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<li>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/%2B57%203228010388-red?logo=phone
+" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
