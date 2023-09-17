@@ -125,7 +125,7 @@
 
 <li>
 <a href="Email:sebaslgr@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/%2B57%203228010388-red?style=for-the-badge&logo=phone" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/%2B57%203228010388-red?style=for-the-badge&logo=phone" style="margin: 10px 0;" />
 </a>
 </li>
 	
