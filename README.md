@@ -46,7 +46,7 @@
 
 - **Herramientas de despliegue**:
 
-    ![Vercel](https://img.shields.io/badge/git-23F05033.svg?style=for-the-badge&Color=green)
+    ![Vercel](https://img.shields.io/badge/vercel-23F05033.svg?style=for-the-badge&Color=green)
     
 <br>
 
