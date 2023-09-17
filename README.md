@@ -124,7 +124,7 @@
 </li>
 
 <li>
-<a href="" target="_blank">
+<a href="Email:sebaslgr@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/%2B57%203228010388-red?logo=phone
 " t=mail style="margin-bottom: 5px;" />
 </a>
