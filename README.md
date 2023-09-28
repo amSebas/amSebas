@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola, soy Juan Sebastian Mendez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/amSebas"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=1000&center=true&vCenter=true&width=1100&height=200&lines=%C2%A1Bienvenido+al+GitHub+de+amSebas!;Desarrollador web Front-end;Amante+del+aprendizaje+activo%3C3" alt="Welcome!" width="300"/></a>
+  <a href="https://github.com/amSebas"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=1000&center=true&vCenter=true&width=1100&height=200&lines=%C2%A1Bienvenido+al+GitHub+de+amSebas!:D;Desarrollador web Front-end;Amante+del+aprendizaje+activo%3C3" alt="Welcome!" width="300"/></a>
 </p>
 
 
